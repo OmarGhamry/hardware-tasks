@@ -1,6 +1,6 @@
-# AVR Microcontroller Interfacing - Tasks Portfolio 🚀
+# AVR Microcontroller Interfacing 🚀
 
-This repository contains practical embedded systems tasks implemented using **ATmega328P** (Arduino Uno architecture), programmed via **Arduino IDE** using low-level AVR registers and bit manipulation techniques, and simulated using **Proteus VSM**.
+> Practical embedded systems tasks implemented using ATmega328P with low-level register manipulation, compiled via Arduino IDE, and simulated in Proteus VSM.
 
 ---
 
@@ -8,7 +8,6 @@ This repository contains practical embedded systems tasks implemented using **AT
 - [Project Overview](#project-overview)
 - [Task 1: Rotating 8 LEDs Right](#task-1-rotating-8-leds-right)
 - [Task 2: Pattern Toggle via Push-Button (5 LEDs)](#task-2-pattern-toggle-via-push-button-5-leds)
-- [Technologies & Tools Used](#technologies--tools-used)
 
 ---
 
