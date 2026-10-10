@@ -5,9 +5,10 @@
 ---
 
 ## 📋 Table of Contents
-- [Project Overview](#project-overview)
-- [Task 1: Rotating 8 LEDs Right](#task-1-rotating-8-leds-right)
-- [Task 2: Pattern Toggle via Push-Button (5 LEDs)](#task-2-pattern-toggle-via-push-button-5-leds)
+- [Project Overview](#-project-overview)
+- [Task 1: Rotating 8 LEDs Right](#-task-1-rotating-8-leds-right)
+- [Task 2: Pattern Toggle via Push-Button (5 LEDs)](#-task-2-pattern-toggle-via-push-button-5-leds)
+- [License](#-license)
 
 ---
 
