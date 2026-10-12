@@ -66,7 +66,7 @@ The 8 LEDs are connected to **PORTD** (`PD0` through `PD7`) via `330Ω` current-
 <table>
   <tr>
     <td align="center">
-      <img src="Task2/Screenshot 2026-10-10 234548.png" width="220" alt="Task 2 Setup">
+      <img src="https://github.com/user-attachments/assets/3ba4a1c8-7592-4f5a-aba2-992b21edcae8" width="220" alt="Task 2 Setup">
       <br>
       <b>Task 2 Setup</b>
     </td>
